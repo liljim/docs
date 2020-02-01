@@ -3,7 +3,7 @@ Middleware
 
 Middleware objects give you the ability to 'wrap' your application in re-usable,
 composable layers of Request handling, or response building logic. Visually,
-your application ends up at the center, and middleware is wrapped aroud the app
+your application ends up at the center, and middleware is wrapped around the app
 like an onion. Here we can see an application wrapped with Routes, Assets,
 Exception Handling and CORS header middleware.
 
